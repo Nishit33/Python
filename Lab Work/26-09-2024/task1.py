@@ -66,7 +66,10 @@ while True:
                 print("Your New password sucessfully updated!!")
 
             else:
-                print("Invalid OTP !!!!")    
+                print("Invalid OTP !!!!")   
+
+        else:
+            print("Invalid Mobile Number!!")         
 
 
     elif choice==4:
